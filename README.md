@@ -14,7 +14,7 @@ Press S to pull up the phone. Press 1 through 4 to change apps. The phone has it
 See the time and the phone battery.
 ##### Security System (2)
 View your cameras to check around the house.
-##### Discord (3)
+##### ChatMe (3)
 See Chew.
 ##### Smarthome (4)
 Adjust your thermostat to three settings: Hot, Mild and Cold. Different characters react differently to this.
@@ -25,7 +25,7 @@ Adjust your thermostat to three settings: Hot, Mild and Cold. Different characte
 He will start singing and move towards you door. He will hide from the cameras. The song that he sings will determine what side he attacks. Close the correct door to make him go away. If the lights are off, he will stay at the door and stop singing. If the lights are on and the door is open, he will jumpscare you. He moves faster if the house is cold. If the house is hot, he moves slowly.
 
 #### Chew
-She will message you on discord. Press R to reply quickly or she will begin spamming you with messages, attracting ??? to your location.
+She will message you on ChatMe. Press R to reply quickly or she will begin spamming you with messages, attracting ??? to your location.
 
 #### DjSlime
 He will sneak towards the left door. If the lights are off, he just runs through the doorway, giving you a game over. If the lights are on, he will stand in the door. Close the left door to stop him. He moves faster if the house is hot. If the house is cold, he moves slowly.
