@@ -2,6 +2,9 @@
 
 ## Mechanics
 
+#### Scrolling
+Press left and right to scroll through the office.
+
 #### Doors
 Use A and D to close your doors. This drains power.
 
@@ -44,3 +47,6 @@ He will call your phone repeatedly, lowering your battery. If you don't decline 
 
 #### McMagma
 If the lights flicker while you're on your phone, take down your phone and close both doors. If you do not do this, McMagma will teleport to a doorway and jumpscare you. The longer the thermostat is on hot, the mroe likely he attacks.
+
+#### 3M1N3M
+He will walk through the front door and loudly run towards the right door. If the house is cold, he will just leave.
