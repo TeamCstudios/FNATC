@@ -9,7 +9,7 @@ Press left and right to scroll through the office.
 Use A and D to close your doors. This drains power.
 
 #### Lights
-Press E to flip the light switch. Different characters react differently to this. If the lights are on, they drain power.
+Press W to flip the light switch. Different characters react differently to this. If the lights are on, they drain power.
 
 #### Phone
 Press S to pull up the phone. Press 1 through 4 to change apps. The phone has its own battery.
