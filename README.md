@@ -37,7 +37,7 @@ He will sneak towards the left door. If the lights are off, he just runs through
 He will appear in the front door camera. If he does so, turn the lights off until he is no longer there. If you aren't fast enough, your doors are disabled.
 
 #### LanceThePlaya
-He lounges on the couch. If the house is cold AND the lights are on, he will loudly compain. If he complains and you don't change your settings, he moves to the right door and stays there until it opens, jumpscaring you.
+If the lights are off for an extended period of time, he will appear in the right door.
 
 #### BobTheBagel
 You must check the cameras to find him. Close the door when he is near.
