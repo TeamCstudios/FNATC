@@ -40,10 +40,10 @@ He will appear in the front door camera. If he does so, turn the lights off unti
 If the lights are off for an extended period of time, he will appear in the right door.
 
 #### BobTheBagel
-You must check the cameras to find him. Close the door when he is near.
+His face will flash on the phone homescreen. You must close the left door.
 
 #### JaredTheBagel
-He will call your phone repeatedly, lowering your battery. If you don't decline the call quickly, he will constantly turn the thermostat up and down.
+If you keep both doors closed for a long time, he will turn the thermostat up and down.
 
 #### McMagma
 If the lights flicker while you're on your phone, take down your phone and close both doors. If you do not do this, McMagma will teleport to a doorway and jumpscare you. The longer the thermostat is on hot, the more likely he attacks.
